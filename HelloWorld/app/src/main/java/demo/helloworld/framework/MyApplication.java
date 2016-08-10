@@ -18,4 +18,5 @@ public class MyApplication extends Application {
         x.Ext.init(this);
         x.Ext.setDebug(true);
     }
+
 }
